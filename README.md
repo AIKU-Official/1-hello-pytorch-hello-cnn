@@ -1,7 +1,7 @@
 # 1. Hello PyTorch, Hello CNN!
 Programming Assignment "1. Hello PyTorch, Hello CNN!" for 2023 Summer DeepIntoDeep
 
-**Due Date 2023.07.22**
+**Due Date 2023.07.23**
 
 'D2D' 폴더 전체를 본인의 구글 드라이브에 업로드 한 후에, "1. Hello PyTorch, Hello CNN!.ipynb"를 Colab으로 열어주세요.
 
