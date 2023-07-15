@@ -23,3 +23,10 @@ Colab 첫번째 Text block의
 
 
 <img width="698" alt="스크린샷 2023-07-13 오후 6 37 38" src="https://github.com/AIKU-Official/1-hello-pytorch-hello-cnn-hijihyo/assets/35412648/8a83bfa5-7ff3-4fa0-a57d-84935b5d6c86">
+
+## 7.15 수정 - AlexNet Conv Layer 2
+AlexNet 재구현 요약 부분에서 Conv Layer 2에 오류가 있어서 바로 잡습니다.
+
+<img width="534" alt="스크린샷 2023-07-15 오후 7 21 36" src="https://github.com/AIKU-Official/1-hello-pytorch-hello-cnn/assets/35412648/73aee2cd-a0fe-412a-ae48-dc0412c4dc18">
+
+Stride가 1, Padding이 2 있는데 오류가 있었습니다. 참고 바랍니다. 혼동을 드려 죄송합니다.
